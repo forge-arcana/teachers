@@ -63,4 +63,4 @@ Claude never saves student names to your profile. We recommend using pseudonyms 
 - **Drop files in your folder** and Claude will use them — templates, syllabi, past papers, class lists. PDF and text files work best (save Word docs as PDF first).
 - **Share outputs** by email, USB, Google Classroom, or any platform your school uses.
 - **Give a co-teacher their own copy** of this folder — each teacher needs their own.
-- **Update the template** by replacing "CLAUDE.md" with the new version. Never replace "teacher-profile.md" — that's your data.
+- **Update the template** by replacing "AGENTS.md" with the new version. Never replace "teacher-profile.md" — that's your data.
