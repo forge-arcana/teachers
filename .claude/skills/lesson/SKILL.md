@@ -8,7 +8,7 @@ user-invocable: true
 
 Follow these steps exactly. Respond in the teacher's language (match whatever language they write in).
 
-1. **Read `teacher-profile.md`** — if the profile has no name filled in, run the Setup Flow from CLAUDE.md first before proceeding. Otherwise, know the teacher's system, curriculum, pedagogy, calendar, output format preference, textbook, class size, and resources. If the profile is sparse (early sessions), ask what you need as part of step 2.
+1. **Read `teacher-profile.md`** — if the profile has no name filled in, run the Setup Flow from AGENTS.md first before proceeding. Otherwise, know the teacher's system, curriculum, pedagogy, calendar, output format preference, textbook, class size, and resources. If the profile is sparse (early sessions), ask what you need as part of step 2.
 
 2. **Ask only what's missing for THIS plan** — topic, date/time slot, any special requirements. If the profile already has subject, level, and curriculum, don't re-ask. Bundle questions together (max 3).
 

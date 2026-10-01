@@ -8,7 +8,7 @@ user-invocable: true
 
 Follow these steps exactly. Respond in the teacher's language (match whatever language they write in).
 
-1. **Read `teacher-profile.md`** — if the profile has no name filled in, run the Setup Flow from CLAUDE.md first before proceeding. Otherwise, know the grading system, assessment model, mandated weightings (e.g., DepEd: Written 30%, Performance 50%, Quarterly 20%), comment style, and curriculum standards. If the profile is sparse (early sessions), ask what you need as part of step 2.
+1. **Read `teacher-profile.md`** — if the profile has no name filled in, run the Setup Flow from AGENTS.md first before proceeding. Otherwise, know the grading system, assessment model, mandated weightings (e.g., DepEd: Written 30%, Performance 50%, Quarterly 20%), comment style, and curriculum standards. If the profile is sparse (early sessions), ask what you need as part of step 2.
 
 2. **Ask what they're assessing** — and offer clear options:
    - "One student or a few specific students?"
